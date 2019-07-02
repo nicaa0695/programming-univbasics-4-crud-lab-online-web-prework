@@ -5,7 +5,8 @@ end
 
 end
 
-def create_an_array
+def create_an_array 
+  ["bread", "eggs", "milk", "water"]
   
 end
 
